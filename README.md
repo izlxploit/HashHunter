@@ -1,7 +1,3 @@
-🇬🇧 README.md (English)
-markdown
-Copy
-Edit
 # HashHunter 🔐
 
 **HashHunter** is a multifunctional Python-based cyber tool for generating, verifying, and cracking hash values using various algorithms. It supports both single-threaded and high-speed multiprocessing brute-force attacks for hash cracking.
