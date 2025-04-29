@@ -27,7 +27,7 @@ Edit
 
 ## 📦 Installation
 
-git clone https://github.com/izxploit/HashHunter.git
+git clone https://github.com/izlxploit/HashHunter.git
 cd HashHunter
 python3 hashhunter.py
 🛠 Usage
